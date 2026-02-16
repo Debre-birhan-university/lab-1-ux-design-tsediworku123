@@ -1,41 +1,34 @@
-# UX Design Lab 1 – Ethiopian App Case Study
+Lab 1: UX Design - Ethiopian App Case Study
+🎯 Objective
+Practice wireframing by analyzing and redesigning a real-world application used in Ethiopia.
 
-## Selected Ethiopian App
+🛠 Step 1: Follow the Tutorial
+Open draw.io.
+Follow the steps in the attached attachment to learn how to use device frames, icons, and text boxes.
+This is your training to understand how to build professional screens.
+🛠 Step 2: The Mandatory Project (Ethiopian App)
+Select one functional mobile application based in Ethiopia (e.g., Ride, Telebirr, ZayRide, Gebeta, etc.).
 
-TinaMart
+Rule 1: The application must be currently working in Ethiopia.
+Rule 2: You must choose a unique application. Duplicate selections are forbidden.
+Rule 3: You may use any media to design (draw.io, Figma).
+📤 Submission Requirements
+Phase 1: Accept the Assignment
+Accept the invitation link to create your unique GitHub repository.
+Phase 2: Upload Deliverables
+Upload the following files directly to your repository via the browser:
 
-## Design Tool Used
+Tutorial Proof: The mobileapp.png you created while following the ux.pdf guide.
+Main Project: The images/PDFs of your Ethiopian App design.
+export as PNG/JPG.
+App Info: Open README.md and fill in the details below.
+📝 Project Details
+Selected Ethiopian App: > Tinamart online shooping
 
+Which media did you use for design? (draw.io, Figma, Paper, etc.)
 Figma
-
-## Tutorial Proof
-
-**File:** mobileapp.png
-
-**Description:**
-This file was created by following the UX tutorial guide. It demonstrates the use of mobile frames, text, icons, and layout to design a sample mobile application screen.
+Student Information Name:Tsedenia Worku program: software engineering
 
 
 
-## Main Design
-
-**File:** tinamart.png
-
-
-**Description:**
-I recreated the TinaMart mobile application Home screen using Figma. The design includes the app header, search bar, promotional banner, product section, and bottom navigation. This shows the main user interface structure and layout of the application.
-
-
-
-## Files Included
-
-* mobileapp.png – Tutorial design
-* tinamart.png – Main app Home screen design
-
-
-
-
-## Student Information
-
-Name: Tsedenia Worku
-Program: Software Engineering
+Student Information Name:Kidist Kinfe program: software engineering
