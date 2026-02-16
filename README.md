@@ -33,7 +33,8 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > Jiji Ethiopia: Buy&Sell Online
+**Selected Ethiopian App:** Tinamart online shoping
+
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
@@ -43,4 +44,5 @@ Upload the following files directly to your repository via the browser:
 
 Student Information 
 Name:Tsedenia Worku
+
 program: software engineering 
